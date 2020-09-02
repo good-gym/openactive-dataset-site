@@ -13,9 +13,9 @@ settings = OpenActive::DatasetSite::Settings.new(
   organisation_url: "https://www.goodgym.org",
   organisation_legal_entity: "The Good Gym",
   organisation_plain_text_description: "A community of runners who get fit by doing good",
-  organisation_logo_url: "https://data.goodgym.org/logo.png",
+  organisation_logo_url: "https://data.goodgym.org/images/logo.png",
   organisation_email: "getinvolved@goodym.org",
-  background_image_url: "https://data.goodgym.org/background.jpg",
+  background_image_url: "https://data.goodgym.org/images/bg.jpg",
   date_first_published: "2010-08-16",
   data_feed_types: [
     OpenActive::DatasetSite::FeedType::SCHEDULED_SESSION
